@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akbar</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Blog web with Laravel**
-
-- 🌱 I’m currently learning **Laravel and Java**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **akbarramadhanb66@gmail.com**
 
